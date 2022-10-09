@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Power BI, Machine Learning**
 
-- 💬 Ask me about **Pandas,Excel**
+- 💬 Ask me about **Exploratory Data Analysis,Data wrangling,Data gathering,Pandas**
 
 - 📫 How to reach me **kinuthiajr@gmail.com**
 
