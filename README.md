@@ -4,7 +4,7 @@
 <img align='right' alt='Data' width ='400' src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinuthiajr&label=Profile%20views&color=0e75b6&style=flat" alt="kinuthiajr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/heykinuthia" target="blank"><img src="https://img.shields.io/twitter/follow/kinuthia?logo=twitter&style=for-the-badge" alt="kinuthia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heykinuthia" target="blank"><img src="https://img.shields.io/twitter/follow/heykinuthia?logo=twitter&style=for-the-badge" alt="kinuthia" /></a> </p>
 
 - 🌱 I’m currently learning **Power BI, Machine Learning**
 
