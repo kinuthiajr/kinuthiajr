@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kinuthiajr@gmail.com**
 
-- ⚡ Fun fact **Avocado toast is my fav**
+- ⚡ Fun fact ** amateur marathoner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
