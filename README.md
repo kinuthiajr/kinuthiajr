@@ -6,13 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/heykinuthia" target="blank"><img src="https://img.shields.io/twitter/follow/heykinuthia?logo=twitter&style=for-the-badge" alt="kinuthia" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI, Machine Learning, Tableau**
 
-- 💬 Ask me about **Exploratory Data Analysis,Data wrangling,Data gathering,Pandas**
+- 💬 Ask me about **Exploratory Data Analysis,Data wrangling,Data gathering,Pandas,Django**
 
 - 📫 How to reach me **kinuthiajr@gmail.com**
-
-- ⚡ Fun fact ** amateur marathoner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
